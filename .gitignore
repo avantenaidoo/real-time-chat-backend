@@ -1,0 +1,36 @@
+# Build artifacts
+bin/
+obj/
+out/
+
+# User-specific files
+*.csproj.user
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# VS Code settings (optional)
+.vscode/
+
+# Rider settings (optional)
+.idea/
+
+# Local database
+*.db
+*.mdf
+*.ldf
+
+# Logs
+*.log
+
+# Secrets or sensitive files (optional - only if you have these)
+appsettings.Development.json
+appsettings.Local.json
+
+# Node.js (if you're using it in the frontend)
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
