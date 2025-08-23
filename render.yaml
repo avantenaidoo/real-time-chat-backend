@@ -12,4 +12,3 @@ services:
         fromSecret: jwt-secret
       - key: ConnectionStrings__DefaultConnection
         fromSecret: postgres-connection-string
-  
