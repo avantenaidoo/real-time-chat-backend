@@ -13,6 +13,3 @@ ASP.NET Core backend for a real-time chat app with SignalR, REST APIs, and SQLit
 - GET /api/Chat/rooms: List rooms.
 - POST /api/Chat/rooms: Create room.
 - GET /api/Chat/messages/{roomId}: Get messages.
-
-## Deployment
-Hosted on Render: https://chat-app.onrender.com
